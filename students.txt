@@ -1,0 +1,10 @@
+1001|Faridah Achieng|BCS|69.5
+1002|Isaac Ssemanda|BIT|59.5
+1003|Brian Okello|BIT|65
+1005|David Mugisha|BCS|74.5
+1007|Hellen Namusoke|BCS|77
+1008|Amina Nakato|BCS|78.5
+1010|Esther Nansubuga|BIT|91
+1011|Joan Akello|BCS|84
+1012|Carol Atim|BCS|82
+1015|George Kato|BIT|88
